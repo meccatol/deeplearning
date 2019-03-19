@@ -1,0 +1,4 @@
+*.pyc
+*~
+menv
+.DS_Store
